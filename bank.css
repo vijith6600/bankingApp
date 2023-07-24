@@ -1,0 +1,22 @@
+body{
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('https://img.freepik.com/free-photo/digital-world-map-hologram-blue-background_1379-900.jpg?w=1060&t=st=1658849184~exp=1658849784~hmac=30cabed7f46811378d3ffaa9199e133adaeb27b147074b0dcfe841bf1d64dea5');
+}
+
+#login {
+    margin-top: 9%;
+    height: 250px;
+    border: solid rgb(60, 58, 58) 1px;
+    background-color: powderblue;
+    border-radius: 2%;
+}
+
+form {
+    padding: 100px;
+}
+
